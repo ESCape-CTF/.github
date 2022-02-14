@@ -1,6 +1,6 @@
 # Hi there, we are a nooby CTF Team
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://blog.escape-ctf.com)
+[Blog](https://blog.escape-ctf.com)
 
 
 <br />
@@ -22,6 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escape-ctf&show_icons=true)]
 <!--END_SECTION:activity-->
 
 </details>
