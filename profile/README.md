@@ -22,7 +22,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=escape-ctf&show_icons=true)]
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESCape-ctf&show_icons=true)]
 <!--END_SECTION:activity-->
 
 </details>
