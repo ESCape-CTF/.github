@@ -2,7 +2,7 @@ name: Latest stack overflow activity
 on:
   schedule:
     # Runs every 5 minutes
-    - cron: '*/5 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
   
 jobs:
@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-				  readme_path: "./profile/README.md"
-					commit_message: "Updated readme with the latest stackOverflow data"
-					feed_list: "https://stackoverflow.com/feeds/user/4214976"
+          readme_path: "./profile/README.md"
+          commit_message: "Updated readme with the latest blog posts"
+          feed_list: "https://blog.escape-ctf.com/feed.xml"
 					
