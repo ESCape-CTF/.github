@@ -16,3 +16,4 @@ jobs:
           readme_path: "./profile/README.md"
           commit_message: "Updated readme with the latest blog posts"
           feed_list: "https://blog.escape-ctf.com/feed.xml"
+          template: [$title]($url)
