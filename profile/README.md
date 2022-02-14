@@ -17,17 +17,3 @@
 ➡️ [more blog posts...](https://blog.escape-ctf.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ESCape-ctf&show_icons=true)]
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-</details>
