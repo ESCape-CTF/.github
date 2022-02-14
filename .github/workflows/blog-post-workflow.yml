@@ -15,6 +15,7 @@ jobs:
         with:
           readme_path: "./profile/README.md"
           commit_message: "[BOT] Updated readme with the latest blog posts"
-          template: "[$title]($url) $newline"
+          template: "[$title]($url) $decription $newline"
+          description_max_length: 20
           feed_list: "https://blog.escape-ctf.com/feed.xml"
 
